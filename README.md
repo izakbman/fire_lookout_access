@@ -19,6 +19,8 @@ Data sourced from https://bestmapsever.com/pages/oregon-fire-lookouts-list
 Usage: Install requirements for map.ipynb. map.ipynb can be used to view the different filtered datasets as well as plots. All of the project functionality is currently contained in map.ipynb
 
 OpenStreetMap data and BLM data should be processed and stored in the data/ directory.
+Downloadable zip file of the data folder can be downloaded here: 
+https://www.dropbox.com/scl/fi/c0g8ytgghen0rv8vimluy/firetower_data.zip?rlkey=pwp9nqc8sls3czdzl2sg6dran&st=k2vml4hl&dl=0
 #### Next Steps
 
 Data Integration and API Development: Integrate geospatial data into a spatially optimized database like MongoDB. Develop an API for dynamic data querying.
